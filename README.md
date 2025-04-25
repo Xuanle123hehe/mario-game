@@ -1,8 +1,12 @@
-Lê Trường Xuân - 23020235
+#Giới thiệu về game  
 
-Tên game : Mario
+#Tên game: mario-game
 
-#Điểm nổi bật : 
+#Sinh viên thực hiện: Lê Trường Xuân - MSSV: 23020235.    
+
+#Mario-game là một trò chơi thể loại platformer được lấy cảm hứng từ tựa game kinh điển Mario. Trong trò chơi này, người chơi sẽ nhập vai vào một anh chàng với chiếc mũ màu đỏ và có một khẩu súng có thể bắn xuyên tường. Nhiệm vụ của người chơi là vượt qua các thử thách gian nan để tiêu diệt tên tội phạm đang bị truy nã và đem lại hòa bình cho thế giới.  
+
+#Điểm nổi bật  
 
 1.Đồ họa bắt mắt: Game sử dụng nhiều đồ họa nhân vật và kết hợp một tông màu chủ đạo để tạo nên một cái nhìn tổng quan về hình ảnh của game rất bắt mắt.  
 
